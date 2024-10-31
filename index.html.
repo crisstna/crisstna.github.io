@@ -1,0 +1,84 @@
+# crisstna.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Project: Travel Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Color de fondo claro */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+            color: #4caf50; /* Verde para el encabezado */
+            margin-top: 20px;
+        }
+        h2 {
+            color: #ff5722; /* Color naranja para subtítulos */
+            margin-top: 20px;
+        }
+        p {
+            margin: 20px;
+            text-align: justify;
+        }
+        ul {
+            margin: 20px;
+            padding: 0;
+            list-style-type: square; /* Estilo de lista */
+        }
+        img {
+            display: block;
+            margin: 0 auto; /* Centra las imágenes */
+            width: 80%; /* Ancho de las imágenes */
+            max-width: 600px; /* Ancho máximo */
+        }
+        footer {
+            text-align: center;
+            margin: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Travel to Bali</h1>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/1024px-Pura_Ulun_Danu_Bratan%2C_2022.jpg" alt="Pura Uluwatu" width="100">
+    
+    <p>Bali is an island paradise located in Indonesia, known for its stunning beaches, vibrant culture, and lush landscapes. Whether you're seeking relaxation, adventure, or cultural experiences, Bali has something to offer everyone.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pura_Taman_Ayun_terletak_di_Mengwi%2C_Bali.jpg/390px-Pura_Taman_Ayun_terletak_di_Mengwi%2C_Bali.jpg">
+
+    <h2>Things to See</h2>
+    <ul>
+        <li>Pura Uluwatu - A stunning sea temple perched on a cliff.</li>
+        <li>Tegallalang Rice Terraces - Famous for their beautiful rice paddies.</li>
+        <li>Seminyak Beach - A popular beach known for its vibrant nightlife.</li>
+        <li>Ubud Monkey Forest - A sanctuary for the playful monkeys of Bali.</li>
+    </ul>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ubud-3.jpg/560px-Ubud-3.jpg">
+    
+    <h2>Places to Visit</h2>
+    <ul>
+        <li>Mount Batur - An active volcano perfect for hiking at sunrise.</li>
+        <li>Goa Gajah - An ancient cave temple with intricate carvings.</li>
+        <li>Balangan Beach - A serene beach known for surfing.</li>
+        <li>Jimbaran Bay - Famous for its seafood restaurants by the beach.</li>
+    </ul>
+
+    <img src="https://en.wikipedia.org/wiki/List_of_beaches_in_Indonesia#/media/File:Kuta_200507-3.jpg">
+
+    <h2>Why Visit Bali?</h2>
+    <p>Bali offers a unique blend of stunning natural beauty, rich culture, and warm hospitality. From its breathtaking sunsets to its delicious cuisine, every moment in Bali is memorable. Don't miss the opportunity to immerse yourself in the local traditions and explore the island's hidden gems!</p>
+
+    <footer>
+        <p>&copy; 2024 Travel to Bali. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
